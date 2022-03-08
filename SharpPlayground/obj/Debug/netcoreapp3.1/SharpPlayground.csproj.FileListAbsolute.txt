@@ -1,0 +1,14 @@
+D:\Tutorial\C#\SharpPlayground\SharpPlayground\bin\Debug\netcoreapp3.1\SharpPlayground.exe
+D:\Tutorial\C#\SharpPlayground\SharpPlayground\bin\Debug\netcoreapp3.1\SharpPlayground.deps.json
+D:\Tutorial\C#\SharpPlayground\SharpPlayground\bin\Debug\netcoreapp3.1\SharpPlayground.runtimeconfig.json
+D:\Tutorial\C#\SharpPlayground\SharpPlayground\bin\Debug\netcoreapp3.1\SharpPlayground.runtimeconfig.dev.json
+D:\Tutorial\C#\SharpPlayground\SharpPlayground\bin\Debug\netcoreapp3.1\SharpPlayground.dll
+D:\Tutorial\C#\SharpPlayground\SharpPlayground\bin\Debug\netcoreapp3.1\SharpPlayground.pdb
+D:\Tutorial\C#\SharpPlayground\SharpPlayground\obj\Debug\netcoreapp3.1\SharpPlayground.csproj.AssemblyReference.cache
+D:\Tutorial\C#\SharpPlayground\SharpPlayground\obj\Debug\netcoreapp3.1\SharpPlayground.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tutorial\C#\SharpPlayground\SharpPlayground\obj\Debug\netcoreapp3.1\SharpPlayground.AssemblyInfoInputs.cache
+D:\Tutorial\C#\SharpPlayground\SharpPlayground\obj\Debug\netcoreapp3.1\SharpPlayground.AssemblyInfo.cs
+D:\Tutorial\C#\SharpPlayground\SharpPlayground\obj\Debug\netcoreapp3.1\SharpPlayground.csproj.CoreCompileInputs.cache
+D:\Tutorial\C#\SharpPlayground\SharpPlayground\obj\Debug\netcoreapp3.1\SharpPlayground.dll
+D:\Tutorial\C#\SharpPlayground\SharpPlayground\obj\Debug\netcoreapp3.1\SharpPlayground.pdb
+D:\Tutorial\C#\SharpPlayground\SharpPlayground\obj\Debug\netcoreapp3.1\SharpPlayground.genruntimeconfig.cache
