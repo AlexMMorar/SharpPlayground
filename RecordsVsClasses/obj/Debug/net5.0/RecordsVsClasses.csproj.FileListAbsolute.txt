@@ -1,0 +1,16 @@
+C:\Users\vesavl\Desktop\Sharing solutions\SharpPlayground\RecordsVsClasses\bin\Debug\net5.0\RecordsVsClasses.exe
+C:\Users\vesavl\Desktop\Sharing solutions\SharpPlayground\RecordsVsClasses\bin\Debug\net5.0\RecordsVsClasses.deps.json
+C:\Users\vesavl\Desktop\Sharing solutions\SharpPlayground\RecordsVsClasses\bin\Debug\net5.0\RecordsVsClasses.runtimeconfig.json
+C:\Users\vesavl\Desktop\Sharing solutions\SharpPlayground\RecordsVsClasses\bin\Debug\net5.0\RecordsVsClasses.runtimeconfig.dev.json
+C:\Users\vesavl\Desktop\Sharing solutions\SharpPlayground\RecordsVsClasses\bin\Debug\net5.0\RecordsVsClasses.dll
+C:\Users\vesavl\Desktop\Sharing solutions\SharpPlayground\RecordsVsClasses\bin\Debug\net5.0\ref\RecordsVsClasses.dll
+C:\Users\vesavl\Desktop\Sharing solutions\SharpPlayground\RecordsVsClasses\bin\Debug\net5.0\RecordsVsClasses.pdb
+C:\Users\vesavl\Desktop\Sharing solutions\SharpPlayground\RecordsVsClasses\obj\Debug\net5.0\RecordsVsClasses.csproj.AssemblyReference.cache
+C:\Users\vesavl\Desktop\Sharing solutions\SharpPlayground\RecordsVsClasses\obj\Debug\net5.0\RecordsVsClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesavl\Desktop\Sharing solutions\SharpPlayground\RecordsVsClasses\obj\Debug\net5.0\RecordsVsClasses.AssemblyInfoInputs.cache
+C:\Users\vesavl\Desktop\Sharing solutions\SharpPlayground\RecordsVsClasses\obj\Debug\net5.0\RecordsVsClasses.AssemblyInfo.cs
+C:\Users\vesavl\Desktop\Sharing solutions\SharpPlayground\RecordsVsClasses\obj\Debug\net5.0\RecordsVsClasses.csproj.CoreCompileInputs.cache
+C:\Users\vesavl\Desktop\Sharing solutions\SharpPlayground\RecordsVsClasses\obj\Debug\net5.0\RecordsVsClasses.dll
+C:\Users\vesavl\Desktop\Sharing solutions\SharpPlayground\RecordsVsClasses\obj\Debug\net5.0\ref\RecordsVsClasses.dll
+C:\Users\vesavl\Desktop\Sharing solutions\SharpPlayground\RecordsVsClasses\obj\Debug\net5.0\RecordsVsClasses.pdb
+C:\Users\vesavl\Desktop\Sharing solutions\SharpPlayground\RecordsVsClasses\obj\Debug\net5.0\RecordsVsClasses.genruntimeconfig.cache

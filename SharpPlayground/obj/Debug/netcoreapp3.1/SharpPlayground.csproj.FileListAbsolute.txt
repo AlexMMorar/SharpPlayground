@@ -12,3 +12,17 @@ D:\Tutorial\C#\SharpPlayground\SharpPlayground\obj\Debug\netcoreapp3.1\SharpPlay
 D:\Tutorial\C#\SharpPlayground\SharpPlayground\obj\Debug\netcoreapp3.1\SharpPlayground.dll
 D:\Tutorial\C#\SharpPlayground\SharpPlayground\obj\Debug\netcoreapp3.1\SharpPlayground.pdb
 D:\Tutorial\C#\SharpPlayground\SharpPlayground\obj\Debug\netcoreapp3.1\SharpPlayground.genruntimeconfig.cache
+C:\Users\vesavl\Desktop\Sharing solutions\SharpPlayground\SharpPlayground\bin\Debug\netcoreapp3.1\SharpPlayground.exe
+C:\Users\vesavl\Desktop\Sharing solutions\SharpPlayground\SharpPlayground\bin\Debug\netcoreapp3.1\SharpPlayground.deps.json
+C:\Users\vesavl\Desktop\Sharing solutions\SharpPlayground\SharpPlayground\bin\Debug\netcoreapp3.1\SharpPlayground.runtimeconfig.json
+C:\Users\vesavl\Desktop\Sharing solutions\SharpPlayground\SharpPlayground\bin\Debug\netcoreapp3.1\SharpPlayground.runtimeconfig.dev.json
+C:\Users\vesavl\Desktop\Sharing solutions\SharpPlayground\SharpPlayground\bin\Debug\netcoreapp3.1\SharpPlayground.dll
+C:\Users\vesavl\Desktop\Sharing solutions\SharpPlayground\SharpPlayground\bin\Debug\netcoreapp3.1\SharpPlayground.pdb
+C:\Users\vesavl\Desktop\Sharing solutions\SharpPlayground\SharpPlayground\obj\Debug\netcoreapp3.1\SharpPlayground.csproj.AssemblyReference.cache
+C:\Users\vesavl\Desktop\Sharing solutions\SharpPlayground\SharpPlayground\obj\Debug\netcoreapp3.1\SharpPlayground.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesavl\Desktop\Sharing solutions\SharpPlayground\SharpPlayground\obj\Debug\netcoreapp3.1\SharpPlayground.AssemblyInfoInputs.cache
+C:\Users\vesavl\Desktop\Sharing solutions\SharpPlayground\SharpPlayground\obj\Debug\netcoreapp3.1\SharpPlayground.AssemblyInfo.cs
+C:\Users\vesavl\Desktop\Sharing solutions\SharpPlayground\SharpPlayground\obj\Debug\netcoreapp3.1\SharpPlayground.csproj.CoreCompileInputs.cache
+C:\Users\vesavl\Desktop\Sharing solutions\SharpPlayground\SharpPlayground\obj\Debug\netcoreapp3.1\SharpPlayground.dll
+C:\Users\vesavl\Desktop\Sharing solutions\SharpPlayground\SharpPlayground\obj\Debug\netcoreapp3.1\SharpPlayground.pdb
+C:\Users\vesavl\Desktop\Sharing solutions\SharpPlayground\SharpPlayground\obj\Debug\netcoreapp3.1\SharpPlayground.genruntimeconfig.cache
